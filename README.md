@@ -24,5 +24,6 @@ Seja bem vindo ao meu perfil!!🥰
   <a href = "mailto:ezequielalves1021@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://https://www.linkedin.com/in/ezequielamoura/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://https://github.com/Ezequie1)
-  </div>
+  ![Snake animation](https://https://github.com/Ezequie1/Ezequie1/blob/output/github-contribution-grid-snake.svg)
+   
+    <div/>
