@@ -16,7 +16,7 @@ nome : Gerar dados
 	      - usa : Platane / snk @ master
 	        id : snake-gif
 	        com :
-	          github_user_name : Ezequie1
+	          github_user_name : ezequie1
 	          svg_out_path : dist / github-Contribution-grid-snake.svg
 	
 
@@ -26,3 +26,4 @@ nome : Gerar dados
 	          build_dir : dist
 	        env :
 	          GITHUB_TOKEN : $ {{secrets.GITHUB_TOKEN}}
+
