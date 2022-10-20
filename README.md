@@ -18,10 +18,11 @@ Seja bem vindo ao meu perfil!!🥰
   ##
   
   <div> 
-   ![Snake animation](https://github.com/Ezequie1/Ezequie1/blob/output/github-contribution-grid-snake.svg)
  
   <a href="https://www.instagram.com/ezequiel___alves/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:ezequielalves1021@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://linkedin.com/in/ezequielamoura/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/Ezequie1/Ezequie1/blob/output/github-contribution-grid-snake.svg)
  
   </div>     
