@@ -2,7 +2,7 @@
  
 Seja bem vindo ao meu perfil!!🥰
 
-Acesse meu portifólio <a href="http://portifolio-ezequiel-alves.com.s3-website-us-east-1.amazonaws.com/"> aqui </a>
+Acesse meu portifólio <a href="https://ezequiel-alves-portifolio.vercel.app/"> aqui </a>
 
   <div>
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Ezequie1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
